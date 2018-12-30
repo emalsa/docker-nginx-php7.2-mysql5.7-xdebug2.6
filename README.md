@@ -43,9 +43,9 @@ Run `docker-compose up -d` and you can finally debug your application
 ##### Docroot/Project files
 Put your Application/PHP-File... at the place where you find docker-compose-yml
 
-- Projectroot  
--- .docker  
+- Projectroot   
+-- .docker/   
 -- .docker-compose.yml  
--- app/ OR index.php OR...
+-- _app/_ OR _index.php_ OR...
 ---
 Happy Debugging
